@@ -1,0 +1,7 @@
+.app {
+  text-align: center;
+  padding: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(to right, #c9d6ff, #e2e2e2);
+  height: 100vh;
+}
